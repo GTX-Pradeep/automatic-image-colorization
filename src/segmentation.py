@@ -1,4 +1,4 @@
-"""Step 4: SLIC superpixels computed ONLY from the Y (grayscale) channel."""
+"""SLIC superpixels computed ONLY from the Y (grayscale) channel."""
 import numpy as np
 from skimage.segmentation import slic
 
