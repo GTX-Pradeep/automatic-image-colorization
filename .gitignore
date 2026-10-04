@@ -1,6 +1,10 @@
 .venv/
 data/raw/
+models/
+outputs/
+.vscode/
 __pycache__/
 *.pyc
 *.zip
 dataset-metadata.json
+work_detail.txt
